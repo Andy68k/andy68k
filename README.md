@@ -8,7 +8,6 @@ Data Visualization | Data cleaning | Story telling with data | Python | Business
 #### Feature Projects 
 Analytics Capstonehttps://github.com/Andy68k/andy68k/edit/main/README.md
 Tableau dashboard
-
 <!--
 **Andy68k/andy68k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
