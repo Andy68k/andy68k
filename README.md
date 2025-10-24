@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Andrew 👋
+
+I'm a data analyist who loves turning raw numbers into clear and actionable insights for great business decion making.
+
+#### My Focus 
+Data Visualization | Data cleaning | Story telling with data | Python | Business intelligence 
+
+#### Feature Projects 
+Analytics Capstonehttps://github.com/Andy68k/andy68k/edit/main/README.md
+Tableau dashboard
 
 <!--
 **Andy68k/andy68k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
